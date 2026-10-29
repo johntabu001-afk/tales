@@ -1,0 +1,877 @@
+
+<style>
+.header-1 {
+  color: orange;
+  font-weight: bold;
+  font-family: 'Times New Roman', Times, serif;
+}
+.home {
+  color: rgb(255, 255, 255);
+  font-family: 'Times New Roman', Times, serif;
+  text-align:right;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  font-size: medium;
+  background-color:rgb(245, 132, 2);
+  display: flexbox;
+  border-radius: 15px;
+  border: none;
+  float: right;
+  cursor: pointer;
+  margin-right: 14px;
+  font-weight: bold;
+  text-decoration: none;
+  text-decoration-line: none;
+}
+.Contact-Us {
+  color: white;
+  font-family: 'Times New Roman', Times, serif;
+  text-align:right;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  font-size: medium;
+  background-color:rgb(245, 132, 2);
+  display: flexbox;
+  border-radius: 15px;
+  border: none;
+  float: right;
+  cursor: pointer;
+  margin-right: 14px;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.Our-Stories {
+  color: white;
+  font-family: 'Times New Roman', Times, serif;
+  text-align:right;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  font-size: medium;
+  background-color:rgb(245, 132, 2);
+  display: flexbox;
+  border-radius: 15px;
+  border: none;
+  float: right;
+  cursor: pointer;
+  margin-right: 14px;
+  font-weight: bold;
+  text-decoration: none;
+}
+.Our-community {
+  float: right;
+  font-size: medium;
+  background-color:rgb(245, 132, 2);
+  display: flexbox;
+  border-radius: 15px;
+   cursor: pointer;
+  margin-right: 14px;
+  font-weight: bold;
+  color: white;
+  font-family: 'Times New Roman', Times, serif;
+  text-align:right;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  border:none;
+  text-decoration: none;
+  text-decoration-line: none;
+
+}
+
+.image-1 {
+  background-image: url(Images/footer.jpg);
+  size: 800px;
+  
+}
+    /* Main content area takes up 75% width */
+
+.container {
+  display: flex;
+      flex: 1; 
+      background-color: rgb(0, 255, 221);
+}
+
+.footer {
+  background-color: brown;
+  text-align: center;
+  backface-visibility: hidden;
+}
+
+
+</style>
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About Us</title>
+<nav>
+<button class="home"><a href="About Us.html">About Us</a></button>
+<button class="Contact-Us"><a href="Writer’s Corner.html">Writer's Corner</a></button>
+<button class="Our-Stories"><a href="Tales of Love.html">Tales of Love</a></button>
+<button class="Our-community"><a href="Our Community.html">Our Community</a></button>
+</nav>
+
+
+</head>
+<H1 class="header-1">Welcome to Our Story-</H1>
+<H3 class="header-2">where love 
+  isn’t just a feeling, 
+  but a journey we build together.
+</H3>
+<body>
+  
+
+<!--This container holds our two-column layout-->
+<dev class="container">
+<main>
+  <h2>Our Activities</h2>
+  <P> We created this space for anyone who believes in the magic
+ of real-world romance. Unlike fictional fairy tales, true
+  love takes intention, communication, and continuous care. 
+  That is why our mission is simple: to provide you with practical, 
+  actionable love tools designed for real life. Whether you
+   are navigating a new romance, deepening a lifelong commitment,
+    or rekindling an old flame, we offer resources, guides, 
+    and insights to help your relationship thrive in meaningful ways.</P>
+</main>
+
+<aside>
+  <h3>Outdoor Picnic</h3>
+  <p> 
+  <button>Forums, Newsletter Signup, Discussion</button>
+</p>
+</aside>
+
+</dev>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+<br>
+<br>
+<footer class="footer">
+@2026 Published Lovely Coral Garden-Nairobi.
+</footer>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Our Community</title>
+  <style>
+.home {
+  color: rgb(255, 255, 255);
+  font-family: 'Times New Roman', Times, serif;
+  text-align:right;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  font-size: medium;
+  background-color:rgb(245, 132, 2);
+  display: flexbox;
+  border-radius: 15px;
+  border: none;
+  float: right;
+  cursor: pointer;
+  margin-right: 14px;
+  font-weight: bold;
+  text-decoration: none;
+  text-decoration-line: none;
+}
+.Contact-Us {
+  color: white;
+  font-family: 'Times New Roman', Times, serif;
+  text-align:right;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  font-size: medium;
+  background-color:rgb(245, 132, 2);
+  display: flexbox;
+  border-radius: 15px;
+  border: none;
+  float: right;
+  cursor: pointer;
+  margin-right: 14px;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.Our-Stories {
+  color: white;
+  font-family: 'Times New Roman', Times, serif;
+  text-align:right;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  font-size: medium;
+  background-color:rgb(245, 132, 2);
+  display: flexbox;
+  border-radius: 15px;
+  border: none;
+  float: right;
+  cursor: pointer;
+  margin-right: 14px;
+  font-weight: bold;
+  text-decoration: none;
+}
+.Our-community {
+  float: right;
+  font-size: medium;
+  background-color:rgb(245, 132, 2);
+  display: flexbox;
+  border-radius: 15px;
+   cursor: pointer;
+  margin-right: 14px;
+  font-weight: bold;
+  color: white;
+  font-family: 'Times New Roman', Times, serif;
+  text-align:right;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  border:none;
+  text-decoration: none;
+  text-decoration-line: none;
+
+}
+
+
+
+    /* Reset default browser spaces */
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: Arial, sans-serif;
+      display: flex;
+      flex-direction: column;
+      min-height: 100vh;
+    }
+
+    /* Style the header */
+    header {
+      background-color: #333;
+      color: white;
+      text-align: center;
+      padding: 20px;
+    }
+
+    /* Style the navigation bar */
+    nav {
+      background-color: #444;
+      padding: 10px;
+      text-align: center;
+    }
+
+    nav a {
+      color: white;
+      text-decoration: none;
+      padding: 10px 20px;
+      display: inline-block;
+    }
+
+    nav a:hover {
+      background-color: #555;
+    }
+
+    /* The layout container for the middle section */
+    .container {
+      display: flex;
+      flex: 1; /* Pushes the footer to the bottom */
+    }
+
+    /* Main content area takes up 50% width */
+    main {
+      flex: 3;
+      background-color: #a57c23;
+      padding: 20px;
+    }
+
+    /* Sidebar takes up 25% width */
+    aside {
+      flex: 1;
+      background-color: #f8f7f5;
+      padding: 20px;
+    }
+    /* Style the footer */
+    footer {
+      background-color: #a57c23;
+      color: white;
+      text-align: center;
+      padding: 15px;
+    }
+
+    /* Responsive Design: Stack columns vertically on small screens */
+    @media (max-width: 768px) {
+      .container {
+        flex-direction: column;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <nav>
+<button class="home"><a href="About Us.html">About Us</a></button>
+<button class="Contact-Us"><a href="Writer’s Corner.html">Writer's Corner</a></button>
+<button class="Our-Stories"><a href="Tales of Love.html">Tales of Love</a></button>
+<button class="Our-community"><a href="Our Community.html">Our Community</a></button>
+</nav>
+    <h1>Our Community</h1>
+  </header>
+
+
+
+  <!-- This container holds our four-column layout -->
+  <div class="container">
+    <main>
+      <h2><a href="Writer’s Corner.html">Join our community</a></h2>
+      
+<br>
+
+      <p>Welcome to the Writer’s Haven—a dedicated space where storytellers, romantics, and everyday lovers come together to share the art of love. Every meaningful connection leaves a footprint, and we believe your personal journey deserves to be heard.
+
+Whether you have a breathtaking confession, a lesson learned through heartbreak, or a heartwarming everyday moment of connection, we invite you to Share Your Story. Our platform thrives on authentic experiences, and through our Submit Love initiative, your unique perspective can offer comfort, inspiration, and practical hope to readers around the globe.
+
+You don’t need to be a published author to contribute. If you have lived it, felt it, or grown from it, take a moment to Tell Us Your Tale. We provide a supportive, welcoming environment where every writer’s voice is honored and celebrated. Step into our haven, put your heart into words, and help us build a vibrant library of real-world love stories.</p>
+    </main>
+
+    <aside>
+      <h3>Sidebar</h3>
+      <p>Use this area for links, categories, ads, or secondary information.</p>
+    </aside>
+<menu>
+  <h3>Menu</h3>
+  <p> Love Stories. Couples. Affections.</p>
+</menu>
+
+
+
+
+  </div>
+<br>
+<br>
+  <footer>
+    <p>@2026 Published Lovely Coral Garden-Nairobi.</p>
+  </footer>
+
+</body>
+</html>
+
+<style>
+.header-1{
+  color-scheme: unset;
+  font-family:'Times New Roman', Times, serif;
+  word-spacing: normal;
+  color: rgb(247, 5, 5);
+  cursor: pointer;
+  font-weight: 200;
+  font-weight: bold;
+}
+.heading-2{ color: black;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-weight: 200;
+  cursor: all-scroll;
+}
+.hero-banner {
+        background-image:url(Images/best.jpg);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+
+        /* Elements need height or padding to give the background space to show */
+        min-height: 450px;
+        color: white; /* Makes text readable over dark images */
+    }
+
+.Back-twos {
+  background-image:url(Images/ian.jpg);
+  font-size: medium;
+  color: azure;
+  min-height: 350px;
+background-position: center;
+}
+
+
+.paragraph-1 {
+  color:white;
+  line-height: 20px; 
+}
+
+.paragraph-2 {
+  color:white;
+  line-height: 20px;
+
+}
+.home {
+  color: rgb(255, 255, 255);
+  font-family: 'Times New Roman', Times, serif;
+  text-align:right;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  font-size: medium;
+  background-color:rgb(245, 132, 2);
+  display: flexbox;
+  border-radius: 15px;
+  border: none;
+  float: right;
+  cursor: pointer;
+  margin-right: 14px;
+  font-weight: bold;
+  text-decoration: none;
+  text-decoration-line: none;
+}
+.Contact-Us {
+  color: white;
+  font-family: 'Times New Roman', Times, serif;
+  text-align:right;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  font-size: medium;
+  background-color:rgb(245, 132, 2);
+  display: flexbox;
+  border-radius: 15px;
+  border: none;
+  float: right;
+  cursor: pointer;
+  margin-right: 14px;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.Our-Stories {
+  color: white;
+  font-family: 'Times New Roman', Times, serif;
+  text-align:right;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  font-size: medium;
+  background-color:rgb(245, 132, 2);
+  display: flexbox;
+  border-radius: 15px;
+  border: none;
+  float: right;
+  cursor: pointer;
+  margin-right: 14px;
+  font-weight: bold;
+  text-decoration: none;
+}
+.Our-community {
+  float: right;
+  font-size: medium;
+  background-color:rgb(245, 132, 2);
+  display: flexbox;
+  border-radius: 15px;
+   cursor: pointer;
+  margin-right: 14px;
+  font-weight: bold;
+  color: white;
+  font-family: 'Times New Roman', Times, serif;
+  text-align:right;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  border:none;
+  text-decoration: none;
+  text-decoration-line: none;
+
+}
+.links {
+  color: aqua;
+  font-family: 'Times New Roman', Times, serif;
+  text-align:center;
+  font-size: medium;
+  gap: 30px;
+  display: flex;
+  cursor: pointer;
+  margin-right: 14px;
+  
+}
+.span-1{
+  color: blueviolet;
+  
+}
+
+.span-2 {
+  color: gold;
+}
+
+.liz {
+  color: black;
+  
+  
+}
+
+
+
+.mary {
+  color: orangered;
+}
+
+.david {
+  color:blueviolet;
+}
+
+.image-1 {
+  background-image: url(Images/footer.jpg);
+}
+
+.footer {
+  color: rgb(255, 0, 140);
+  text-align: center;
+}
+
+.TABLE {
+  color: blueviolet;
+  table-layout: auto;
+  tab-size: 400px;
+  display: inline-table;
+}
+
+.H {
+  color: aqua;
+  font-family: 'Times New Roman', Times, serif;
+}
+    
+</style>
+
+
+
+<!DOCTYPE html>
+<html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+    <meta name="viewport"
+      content="width=device-width,
+      initial-scale=1.0">
+<title class="title">Romantic's Journal</title>
+<meta name="This is a romantic site">
+<link rel="icon" a href="Images/Glossy Red Heart Icon.png">
+</head>
+
+<nav>
+<button class="home"><a href="About Us.html">About Us</a></button>
+<button class="Contact-Us"><a href="Writer’s Corner.html">Writer's Corner</a></button>
+<button class="Our-Stories"><a href="Tales of Love.html">Tales of Love</a></button>
+<button class="Our-community"><a href="Our Community.html">Our Community</a></button>
+</nav>
+
+
+
+<H1 class="header-1">Tales from the Heart</H1>
+
+
+<div class="hero-banner">
+  <br>
+  
+    <h2 class="david">David & Tatiana Love Story</h2>
+<body>
+  <p class="paragraph-1">Under the golden acacia canopy of Nairobi’s City Park, I first laid eyes on Tatiana. It was a crisp Saturday morning fifteen years ago. She was a university student, hopelessly attempting to sketch the park's famous monkeys. Being a young architect with an easy smile and a thermos of sweet chai, I offered to help. Over shared laughs, mandazis, and stolen glances, a delicate spark flared between us.
+
+Our friendship quickly bloomed into romance. I wanted to show Tatiana my roots in the rolling, tea-blanketed hills of Kericho. On our first big road trip together, we journeyed west, passing through the lush landscapes of Kiambu and descending the breath-taking Great Rift Valley. We stopped in Naivasha to watch the flamingos and enjoy hot fish by the lake. Under the setting sun, I softly took her hand and promised to love her endlessly.
+
+Tatiana, who hailed from the coastal beauty of Mombasa, brought me to her home the following year. Walking along the white sands of Nyali Beach at dusk, with the warm Indian Ocean breeze whispering through the palm trees, she showed me the rich warmth of coastal hospitality and swahili coffee. Standing at the shore as the tide rolled in, I whispered to her that every journey across Kenya only led me deeper into her heart.
+
+our love was built on simple, beautiful Kenyan moments: late-night phone calls during sudden Nairobi rainstorms, weekend drives up to the chilly peaks of Nyeri, and long getaways through the wildlife-rich savannahs of Maasai Mara in Narok County. Through every career milestone and personal hurdle, we were each other’s steadfast anchor.
+
+When the time came to ask her to be my wife, I took Tatiana to the serene, misty edges of Mount Kenya in Nanyuki. Beneath a blanket of stars in the quiet splendor of Laikipia County, I got down on one knee. With tears of joy glistening in her eyes, she said yes before I could even finish asking.
+
+Our traditional Ruracio and wed ding were a vibrant celebration of culture, unity, and deep affection. Family and friends gathered from Kakamega to Machakos, filling the air with traditional songs, colorful fabrics, and heartfelt blessings.
+
+Now, fifteen years later, Tatiana and I sit on our veranda overlooking the serene hills of Machakos County, where we built our family home. Holding her hand just as tightly as I did that first day in City Park, we watch our children play in the yard. Through fifteen years, countless counties crossed, and a lifetime of shared memories, our love remains as sweet, warm, and enduring as the Kenyan sun.
+</p
+</body>
+</div>
+
+<div class="Back-twos">
+  <br>
+    <h2 class="Mary">Mary & Erick Romance</h2>
+<body class="Erick">
+  <p class="paragraph-2">It was twenty years ago during the vibrant Mombasa Cultural Festival along the Indian Ocean coast when I first saw Mary. She was coordinating an art exhibition near the historic Fort Jesus, completely lost in thought as she arranged hand-woven coastal tapestries. I was a young civil engineer working on a port expansion project in Kilifi County, and I offered to help her hang a heavy wooden frame. When our hands brushed against the carved wood, Mary looked up with a warm, radiant smile that instantly anchored me to her.
+
+Our romance blossomed along the coastline. We spent our early weekends sipping spiced kahwa in Old Town Mombasa, taking long evening strolls along the white sands of Diani Beach in Kwale County, and sharing endless conversations about our dreams under the tropical stars.
+
+As the years went by, our journey took us across the country. I took Mary to my home county of Meru, nestled along the fertile slopes of Mount Kenya. Standing together among the fragrant coffee and tea plantations, with the cool mountain air surrounding us, I held Mary close and promised her a lifetime of devotion. Mary brought that same coastal warmth to the chilly highlands, making every place we went feel instantly like home.
+
+When I decided to ask Mary to be my wife, I planned a trip to the vast wilderness of Taita Taveta County. Standing at a magnificent viewpoint overlooking Tsavo as the sun dipped behind the hills, casting golden hues across the acacia trees, I got down on one knee. With tears of happiness in her eyes, she whispered a tearful, enthusiastic "Yes!" as the African wilderness stood witness.
+
+Our wedding was a joyous fusion of cultures, bringing together loved ones from the Coast to the Central highlands. Drums echoed, songs filled the air, and our families celebrated a union built on unconditional love and respect.
+
+Now, twenty years later, Mary and I sit together on our quiet balcony in Kajiado County, overlooking the wide plains where wildlife gently grazes in the distance. As we watch our teenage children laugh together in the garden, I reach for Mary's hand. Twenty years, multiple counties, and a lifetime of precious memories later, she is still my greatest blessing and my forever home.
+</p>
+</body>
+</div>
+
+<dev class="Liz">
+<br>
+
+<span class="span-2"><h2>Elizabeth Wangui & Elijah Kioi Love story</h2></span>
+
+<p>
+The morning mist hung low over the emerald tea slopes of Nanyuki, framing the majestic, snow-dusted peaks of Mt. Kenya (Kirinyaga). Elizabeth Wangui adjusted her canvas backpack, her camera clutched tightly in her hands. As a wildlife photographer, she had trekked across Kenya, but nothing rivaled the tranquil grandeur of the mountain's shadow.
+
+Stepping onto a narrow wooden footbridge over the icy Burguret River, Elizabeth misjudged a moss-covered plank. She slipped, her heart leaping into her throat as her camera flew from her grip.
+
+Before it could plunge into the rushing water below, a strong arm caught her waist, while another hand swiftly snatched the camera strap mid-air.
+
+<span class="Span-1">"Steady, mrembo," a deep, warm voice murmured close to her ear.</span>
+
+Shaken, Elizabeth looked up into a pair of kind, amber-brown eyes. Her hero was Elijah Kioi, a local high-altitude guide whose gentle smile possessed a warmth that instantly dissolved the crisp mountain chill.
+
+"Asante sana," Elizabeth breathed, her heart pounding—though no longer from the slip. "That was incredible."
+
+"I am Elijah," he replied with a soft chuckle, handing her the camera intact. "Welcome to Kirinyaga. She demands respect, but she also rewards those who look closely."
+
+That serendipitous moment turned into an unforgettable afternoon. Elijah offered to show Elizabeth the hidden clearings where colobus monkeys swung through the Podocarpus canopy. As they walked along paths carpeted with wild sweet-scented orchids, they shared stories of their lives. Elijah spoke with reverence about the sacred mountain, while Elizabeth shared her passion for capturing fleeting moments of beauty.
+
+As twilight began to paint the sky in hues of amber, rose, and deep indigo, Elijah led her to a high ridge overlooking the valley. The crisp mountain air carried the rich fragrance of cedar and wild sage.
+
+Elijah unslung his flask and poured two metal cups of steaming, spiced chai ya maziwa. He handed one to her, their fingers brushing lingeringly in the cool breeze.
+<strong>"Nakupenda,"</strong>
+ Elijah whispered softly, looking not at the spectacular sunset, but directly into Elizabeth's eyes. The truth in his voice resonated in the quiet expanse between the earth and sky.
+
+Elizabeth smiled, taking his hand, feeling a profound connection rooted deep within her soul. "My heart was found right here on this mountain, Elijah."
+
+Under the watchful gaze of Mt. Kenya, their quiet upendo began to bloom.
+
+</p>
+</dev>
+
+<h2>DEMONSTRATION</h2>
+
+
+
+
+
+
+
+
+<h2>Programmes</h2>
+<ul>
+<li><a href="About Us.html">LOVE</a></li>
+<li>Money</li>
+<li>Why</li>
+</ul>
+
+<ol>
+<li>Romance</li>
+<li>Tales</li>
+<li>Trail</li>
+<li>Why Not</li>
+
+</ol>
+
+<P>THE DRAFT TIMELINE</P>
+<table class="TABLE">
+  <!-- Header Row -->
+  <tr class=" H">
+    <th>NAME</th>
+    <th>DESIGNATION</th>
+    <th>Marriage Status</th>
+  </tr>
+  <!-- Data Row 1 -->
+  <tr>
+    <td>Alice</td>
+    <td>Developer</td>
+    <td>New York</td>
+  </tr>
+  <!-- Data Row 2 -->
+  <tr>
+    <td>Bob</td>
+    <td>Designer</td>
+    <td>London</td>
+  </tr>
+</table>
+
+
+
+<body>
+   
+
+
+</body>
+
+<map>
+  <li>https://maps.app.goo.gl/23AJp283BGtENnkb7</li>
+</map>
+<br>
+
+
+<footer class="footer">
+@2026 Published Lovely Coral Garden-Nairobi. 
+
+<ul class="links">
+  <li><a href="https://www.youtube.com/watch?v=TuDsRIRJ4c8">Facebook</a></li>
+  <li><a href="https://www.youtube.com/watch?v=TuDsRIRJ4c8">Youtube</a></li>
+  <li><a href="https://www.youtube.com/watch?v=TuDsRIRJ4c8">Twitter</a></li>
+  
+</ul>
+
+</footer>
+
+<br>
+
+</html>
+
+
+<style>
+.home {
+  color: rgb(255, 255, 255);
+  font-family: 'Times New Roman', Times, serif;
+  text-align:right;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  font-size: medium;
+  background-color:rgb(245, 132, 2);
+  display: flexbox;
+  border-radius: 15px;
+  border: none;
+  float: right;
+  cursor: pointer;
+  margin-right: 14px;
+  font-weight: bold;
+  text-decoration: none;
+  text-decoration-line: none;
+}
+.Contact-Us {
+  color: white;
+  font-family: 'Times New Roman', Times, serif;
+  text-align:right;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  font-size: medium;
+  background-color:rgb(245, 132, 2);
+  display: flexbox;
+  border-radius: 15px;
+  border: none;
+  float: right;
+  cursor: pointer;
+  margin-right: 14px;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.Our-Stories {
+  color: white;
+  font-family: 'Times New Roman', Times, serif;
+  text-align:right;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  font-size: medium;
+  background-color:rgb(245, 132, 2);
+  display: flexbox;
+  border-radius: 15px;
+  border: none;
+  float: right;
+  cursor: pointer;
+  margin-right: 14px;
+  font-weight: bold;
+  text-decoration: none;
+}
+.Our-community {
+  float: right;
+  font-size: medium;
+  background-color:rgb(245, 132, 2);
+  display: flexbox;
+  border-radius: 15px;
+   cursor: pointer;
+  margin-right: 14px;
+  font-weight: bold;
+  color: white;
+  font-family: 'Times New Roman', Times, serif;
+  text-align:right;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  border:none;
+  text-decoration: none;
+  text-decoration-line: none;
+
+}
+
+
+
+
+
+
+
+
+
+
+</style>
+
+
+
+
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width, initial-scale=1.0">
+  <title>Writer's Corner</title>
+  <nav>
+<button class="home"><a href="About Us.html">About Us</a></button>
+<button class="Contact-Us"><a href="Writer’s Corner.html">Writer's Corner</a></button>
+<button class="Our-Stories"><a href="Tales of Love.html">Tales of Love</a></button>
+<button class="Our-community"><a href="Our Community.html">Our Community</a></button>
+</nav>
+
+
+</head>
+<body>
+  
+Welcome to the Writer’s Haven—a dedicated space where storytellers, romantics, and everyday lovers come together to share the art of love. Every meaningful connection leaves a footprint, and we believe your personal journey deserves to be heard.
+
+Whether you have a breathtaking confession, a lesson learned through heartbreak, or a heartwarming everyday moment of connection, we invite you to Share Your Story. Our platform thrives on authentic experiences, and through our Submit Love initiative, your unique perspective can offer comfort, inspiration, and practical hope to readers around the globe.
+
+You don’t need to be a published author to contribute. If you have lived it, felt it, or grown from it, take a moment to Tell Us Your Tale. We provide a supportive, welcoming environment where every writer’s voice is honored and celebrated. Step into our haven, put your heart into words, and help us build a vibrant library of real-world love stories.
+
+</body>
+<br>
+<br>
+<footer class="footer">
+@2026 Published Lovely Coral Garden-Nairobi.
+</footer>
+</html>
